@@ -5,4 +5,4 @@
 • :school: Ho Chi Minh City - University of Science
 
 ### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/ducviet5138?theme=unicorn?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ducviet5138?theme=unicorn&ext=activity)
