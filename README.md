@@ -6,3 +6,4 @@
 
 ### Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ducviet5138?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?ext=activity,hide=ranking)
