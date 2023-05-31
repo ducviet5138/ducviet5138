@@ -2,7 +2,7 @@
   <img src="https://github.com/ducviet5138/ducviet5138/blob/main/coding.gif" alt="coding" />
 </p>
      
-<h1 align="center"> Hi 👋🏻, I'm @ducviet5138 <h1>
+<h1 align="center"> Hi 👋🏻, I'm @ducviet5138 </h1>
 
 ### A litlle bit about myself
 • :man_student: Student \
