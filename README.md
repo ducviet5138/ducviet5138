@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" src"https://github.com/ducviet5138/ducviet5138/blob/main/coding.gif">
+     
 # Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> 
 
 ### A litlle bit about myself
