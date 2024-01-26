@@ -8,5 +8,8 @@
 • :man_student: Student \
 • :school: Ho Chi Minh City - University of Science
 
-### Leetcode Stats
+### Leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ducviet5138?theme=unicorn&ext=activity&hide=ranking)
+
+### Most used languages
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ducviet5138&layout=compact)
