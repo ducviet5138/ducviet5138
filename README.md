@@ -5,8 +5,8 @@
 <h1 align="center"> Hi 👋🏻, I'm @ducviet5138 </h1>
 
 ### A litlle bit about myself
-• :man_student: Student \
-• :school: Ho Chi Minh City - University of Science
+• :man_student: PhD Student \
+• :school: Rochester Institute of Technology (USA)
 
 ### Leetcode stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ducviet5138?theme=unicorn&ext=activity&hide=ranking)
